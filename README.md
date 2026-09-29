@@ -2,6 +2,9 @@
 
 Aplicação feita com Nuxt, Tailwind CSS e DaisyUI, com uma página de cadastro de novos membros em `/cadastro`.
 
+## Vídeo de demonstração
+https://youtu.be/eB1d3dhy0KA?si=35IgYuUog-oZOTfv
+
 ## Requisitos
 - Node.js 20 ou superior
 - npm
@@ -9,8 +12,8 @@ Aplicação feita com Nuxt, Tailwind CSS e DaisyUI, com uma página de cadastro 
 ## Como rodar
 1. Clone o repositório e entre na pasta:
 ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPO.git
-   cd SEU_REPO
+   git clone https://github.com/fchimango/Meu-Projeto-Nuxt.git
+   cd Meu-Projeto-Nuxt
 ```
 2. Instale as dependências:
 ```bash
@@ -25,3 +28,9 @@ Aplicação feita com Nuxt, Tailwind CSS e DaisyUI, com uma página de cadastro 
 ## Páginas
 - `/` : página inicial
 - `/cadastro` : formulário de cadastro com validação
+
+## Tecnologias
+- Nuxt
+- Vue 3 (Composition API)
+- Tailwind CSS
+- DaisyUI
